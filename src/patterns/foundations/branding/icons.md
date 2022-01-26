@@ -54,6 +54,7 @@ p {
   margin: 0;
 }
 </style>
+
 <ul class="set">
 {% for item in page.items %} 
   <li>
