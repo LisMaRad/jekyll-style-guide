@@ -9,17 +9,17 @@ table,fieldset,hr {
 h1, h2, h3, h4, h5, h6 {
   line-height: $headline-line-height;
   color: $headline-font-color;
-  font-family: $robotoslab;
+  font-family: $montserrat;
   margin-top: 0;
 }
 
 h1 {
-  font-size: $typo_lion;
+  font-size: $fontsize_h1;
   margin-bottom: $base-pad;
 }
 
 h2 {
-  font-size: $typo_panther;
+  font-size: $fontsize_h2;
   margin-bottom: $base-pad;
 }
 

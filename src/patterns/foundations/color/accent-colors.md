@@ -4,10 +4,10 @@ styles: base/variables.scss
 maturity: draft
 control: exclude
 colors: 
-  - name: $blue
-    hex: 'lightskyblue'  
-  - name: $green
-    hex: 'lightseagreen'  
+  - name: $purple
+    hex: '#7f53fe' 
+  - name: $peach
+    hex: '#e3996d'  
 ---
 <style>
 .set {

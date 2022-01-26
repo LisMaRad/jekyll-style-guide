@@ -10,8 +10,10 @@ colors:
   - name: $black
     hex: '#222222'
     rgb: rgb(0,0,0)
-  - name: $pink
-    hex: 'hotpink' 
+  - name: $grey
+    hex: '#f0f0f0'
+  - name: $darkgrey
+    hex: '#3b455b'
 ---
 <style>
 .set {

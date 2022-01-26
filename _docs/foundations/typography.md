@@ -1,11 +1,13 @@
 ---
 title: Typography
-info: Roboto and Roboto Slab fonts have been selected as the primary fonts for this system.
+info: Roboto and Montserrat fonts have been selected as the primary fonts for this system.
 ---
 
 {% include pattern_block.html url='/src/patterns/foundations/typography/roboto.html' %}
 
-{% include pattern_block.html url='/src/patterns/foundations/typography/roboto-slab.html' %}
+{% include pattern_block.html url='/src/patterns/foundations/typography/montserrat.html' %}
+
+{% include pattern_block.html url='/src/patterns/foundations/typography/urbanist.html' %}
 
 ---
 

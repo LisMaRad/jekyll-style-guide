@@ -1,4 +1,4 @@
-I"ã<style>
+I"H<style>
 .set {
   display: flex;
   flex-wrap: wrap;
@@ -27,23 +27,16 @@ p {
 <ul class="set">
  
   <li>
-    <div class="color" style="background:#ffffff"></div> 
-    <p>$white</p>
-    <p>#ffffff</p>
-    <p>rgb(255,255,255)</p>
+    <div class="color" style="background:#7f53fe"></div> 
+    <p>$purple</p>
+    <p>#7f53fe</p>
+    
   </li>
  
   <li>
-    <div class="color" style="background:#222222"></div> 
-    <p>$black</p>
-    <p>#222222</p>
-    <p>rgb(0,0,0)</p>
-  </li>
- 
-  <li>
-    <div class="color" style="background:hotpink"></div> 
-    <p>$pink</p>
-    <p>hotpink</p>
+    <div class="color" style="background:#e3996d"></div> 
+    <p>$peach</p>
+    <p>#e3996d</p>
     
   </li>
 

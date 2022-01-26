@@ -6,6 +6,8 @@ $mobile-screen: 480px;
 // Type Systems
 $roboto: 'Roboto', sans-serif;
 $robotoslab: 'Roboto Slab', serif;
+$montserrat: 'Montserrat', sans-serif;
+$urbanist: 'Urbanist', sans-serif;
 
 
 // Font Size
@@ -15,14 +17,27 @@ $typo_leopard: 1.3rem;
 $typo_cat: 1rem; 
 $typo_kitten: .8rem;
 
+//Font Size Au Pair
+$fontsize_h1: 1.625rem;
+$fontsize_h2: 1.25rem;
+$fontsize_hProfile: 1.125rem;
+$fontsize_body: 1rem;
+$fontsize_bodycertain: 0.875rem;
+
+
 // Primary Colors
 $white: #ffffff;
 $black: #222222;
 $pink: hotpink;
+$grey: #f0f0f0;
+$darkgrey: #3b455b;
+
 
 // Accent Colors
 $blue: lightskyblue;
 $green: lightseagreen;
+$peach: #e3996d;
+$purple: #7f53fe;
 
 // Base Fonts
 $base-font-size: 18px;
@@ -37,3 +52,5 @@ $headline-font-color: darken($base-font-color, 10%);
 $large-pad: 1.5rem;
 $base-pad: 1rem;
 $small-pad: $large-pad / 2; //0.75rem
+
+
