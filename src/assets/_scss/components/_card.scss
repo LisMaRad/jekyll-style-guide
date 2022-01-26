@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    background-color: $white;
+    padding: $base-pad;
+    width:fit-content;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.288);
+    margin:$base-pad;
+}
+img{
+    padding: $base-pad;
+}
+p{
+    padding: $base-pad;
+    color: $black;
+}
