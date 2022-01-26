@@ -47,7 +47,7 @@ i.icon:before {
    content: attr(data-icon);
 }
 i.icon {
-  &.red {color: $red;}
+  &.red {color: $white;}
   &.blue {color: $blue;}
   &.green {color: $green;}
   &.amber {color: $amber;}

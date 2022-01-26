@@ -5,17 +5,16 @@ blockquote {
   border-left: 4px solid transparentize($black, .8);
   background: $white;
   color: $black;
-  font-size: $typo_leopard;
+  font-size: $fontsize_body;
   line-height: $headline-line-height;
   
   &.blue {
-    background: transparentize($blue, .8);
+    background: transparentize($purple, .8);
     border-color: black;
     color: $black;
   }
   &.green {
     background: transparentize(yellow, .2);
     border-color: green;
-    color: $pink;
   }
 }
