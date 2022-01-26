@@ -22,10 +22,10 @@ destination: _site          ## Output folder
 ## Style Guide Shell Settings
 
 ## These settings are used in when generating the style guide shell
-sg_title: Jekyll Style Guide
+sg_title: Au Pair
 sg_version: 3.0
-sg_keywords: jekyll, style guide, playbook, design, code 
-sg_author: Matthew Elsom
+sg_keywords: aupair, style guide, playbook, design, code 
+sg_author: "Elizaveta Zaburunova and Lisa Rader"
 sg_description: This Jekyll Style Guide maintains design and code standards and documentation for a digital user interface.
 sg_language: en
 sg_styles: /styleguide/css/styleguide.css
@@ -105,8 +105,8 @@ defaults:
 ## Pattern Settings
 ## These attributes are applied to all patterns via the pattern.html layout.
 
-pattern_author: AUTHOR NAME             ## used in <head> tag
-pattern_description: DESCRIPTION        ## used in <head> tag
+pattern_author: "Elizaveta Zaburunova and Lisa Rader"             ## used in <head> tag
+pattern_description: "Au Pair - our app is a networking app especially for au pairs all around the world in order to meet new people and organize their work and free time activities"        ## used in <head> tag
 pattern_language: en                    ## used in <html> tag
 pattern_favicon: /src/assets/images/icon.ico
 pattern_styles:                 ## add style locations here

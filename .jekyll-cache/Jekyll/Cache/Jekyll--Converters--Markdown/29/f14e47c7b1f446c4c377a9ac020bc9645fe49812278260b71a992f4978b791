@@ -1,4 +1,4 @@
-I"Y
+I"¢
 <section class="sg_pattern" id="blockquote">
   <div class="title">
     <a class="permalink" href="#blockquote"><i class="icon" data-icon="link"></i></a><div class="header typo_eagle">Blockquote</div> 
@@ -14,9 +14,9 @@
   <div class="sg_code" data-styles="components/blockquote.scss">
 <!--  Get all Patterns, find the the Pattern that matches the pattern_url, print the Pattern code -->
 
-<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;blockquote</span> <span class="na">class=</span><span class="s">"green"</span><span class="nt">&gt;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.<span class="nt">&lt;/blockquote&gt;</span>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;blockquote</span> <span class="na">class=</span><span class="s">"green"</span><span class="nt">&gt;</span>This is a new Text I try.<span class="nt">&lt;/blockquote&gt;</span>
 
-<span class="nt">&lt;blockquote</span> <span class="na">class=</span><span class="s">"blue"</span><span class="nt">&gt;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.<span class="nt">&lt;/blockquote&gt;</span></code></pre></figure>
+<span class="nt">&lt;blockquote</span> <span class="na">class=</span><span class="s">"blue"</span><span class="nt">&gt;</span>Hallo Liz.<span class="nt">&lt;/blockquote&gt;</span></code></pre></figure>
 
   </div>
 </section>

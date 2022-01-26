@@ -10,12 +10,12 @@ blockquote {
   
   &.blue {
     background: transparentize($blue, .8);
-    border-color: $blue;
+    border-color: black;
     color: $black;
   }
   &.green {
-    background: transparentize($green, .8);
-    border-color: $green;
-    color: $black;
+    background: transparentize(yellow, .2);
+    border-color: green;
+    color: $pink;
   }
 }
