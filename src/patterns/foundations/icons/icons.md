@@ -1,22 +1,18 @@
 ---
-title: Icons
+title: Favicons
 maturity: draft
 control: exclude
 items: 
-  - name: Small
-    path: src/assets/images/icon-64x64.png
-  - name: Small1
-    path: src/assets/images/icon-64x64.png
-  - name: Small2
-    path: src/assets/images/icon-64x64.png
-  - name: Small3
-    path: src/assets/images/icon-64x64.png
-  - name: Small4
-    path: src/assets/images/icon-64x64.png
-  - name: Small5
-    path: src/assets/images/icon-64x64.png
-  - name: Small6
-    path: src/assets/images/icon-64x64.png
+  - name: Favicon 16x16
+    path: src/assets/favicon_package/favicon-16x16.png
+  - name: Favicon 32x32
+    path: src/assets/favicon_package/favicon-32x32.png
+  - name: Android Chrome Favicon 192x192
+    path: src/assets/favicon_package/android-chrome-192x192.png
+  - name: Android Chrome Favicon 512x512
+    path: src/assets/favicon_package/android-chrome-512x512.png
+  - name: Monochrome Style 150x150
+    path: src/assets/favicon_package/mstile-150x150.png
 ---
 
 <style>

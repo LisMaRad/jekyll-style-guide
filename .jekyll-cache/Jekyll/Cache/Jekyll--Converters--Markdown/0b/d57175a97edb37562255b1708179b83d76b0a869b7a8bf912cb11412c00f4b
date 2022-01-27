@@ -1,0 +1,67 @@
+I"¤<style>
+    .set {
+      display: flex;
+      flex-wrap: wrap;
+      margin: 0 -1rem;
+      margin-top: 0;
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      flex: 1 0 20%;
+      margin: 1rem;
+    }
+    .image {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-width: 280px;
+      height: 300px;
+      background-color: whitesmoke;
+      border: 1px solid whitesmoke;
+      margin-bottom: 1rem;
+    }
+    img {
+      max-height: 100%;
+    }
+    p {
+      margin: 0;
+    }
+</style>
+
+<ul class="set">
+ 
+  <li>
+    <div class="image"><img src="/src/assets/favicon_package/favicon-16x16.png" /></div>
+    <p class="header">Favicon 16x16</p>
+    <p>src/assets/favicon_package/favicon-16x16.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/favicon_package/favicon-32x32.png" /></div>
+    <p class="header">Favicon 32x32</p>
+    <p>src/assets/favicon_package/favicon-32x32.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/favicon_package/android-chrome-192x192.png" /></div>
+    <p class="header">Android Chrome Favicon 192x192</p>
+    <p>src/assets/favicon_package/android-chrome-192x192.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/favicon_package/android-chrome-512x512.png" /></div>
+    <p class="header">Android Chrome Favicon 512x512</p>
+    <p>src/assets/favicon_package/android-chrome-512x512.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/favicon_package/mstile-150x150.png" /></div>
+    <p class="header">Monochrome Style 150x150</p>
+    <p>src/assets/favicon_package/mstile-150x150.png</p>
+  </li>
+
+</ul>
+:ET
