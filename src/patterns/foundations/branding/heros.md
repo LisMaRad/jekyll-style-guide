@@ -1,10 +1,16 @@
 ---
-title: Heros
+title: Illustrations
 maturity: planned
 control: exclude
 items: 
-  - name: Banner A
-    path: src/assets/images/hero.png 
+  - name: Circle Grey
+    path: src/assets/illustrations/grey_oval.svg
+  - name: Circle Peach
+    path: src/assets/illustrations/peach_oval.svg
+  - name: Girl Full Body
+    path: src/assets/illustrations/full_body.svg
+  - name: Logo Illustration
+    path: src/assets/logo/AuPair_mitGlobus_seilich.svg
 ---
 <style>
 .set {
