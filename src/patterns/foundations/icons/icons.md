@@ -13,6 +13,7 @@ items:
     path: src/assets/favicon_package/android-chrome-512x512.png
   - name: Monochrome Style 150x150
     path: src/assets/favicon_package/mstile-150x150.png
+
 ---
 
 <style>
