@@ -10,7 +10,7 @@ items:
   - name: Girl Full Body
     path: src/assets/illustrations/full_body.svg
   - name: Logo Illustration
-    path: src/assets/logo/AuPair_mitGlobus_seilich.svg
+    path: src/assets/logo/AuPair_Globus_Illu.png
 ---
 <style>
 .set {

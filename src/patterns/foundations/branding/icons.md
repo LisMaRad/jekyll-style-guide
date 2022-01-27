@@ -13,8 +13,6 @@ items:
     path: src/assets/icons/back_black.png
   - name: Add
     path: src/assets/icons/plus_black.png
-  - name: Friends (Request)
-    path: src/assets/icons/friends_request_black.png
   - name: Clock
     path: src/assets/icons/clock_black.png
   - name: Maps
