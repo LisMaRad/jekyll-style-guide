@@ -82,8 +82,27 @@ p{
         height: 1.5rem;
         width: 1.5rem;
     }
+    .check{
+        margin-left:$base-pad;
+        height: 1.5rem;
+        width: 1.5rem;
+    }
+    .delete{
+        height: 1.5rem;
+        width: 1.5rem;
+    }
 }
 
+.reask{
+    align-items: center;
+    width:60%;
+    p{
+        width: 80%;
+    }
+    .button{
+        margin: $base-pad;
+    }
+}
 .button_in_line{
     display: flex;
     flex-direction: row;
