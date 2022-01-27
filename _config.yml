@@ -22,14 +22,14 @@ destination: _site          ## Output folder
 ## Style Guide Shell Settings
 
 ## These settings are used in when generating the style guide shell
-sg_title: Au Pair
+sg_title: AuPair
 sg_version: 3.0
 sg_keywords: aupair, style guide, playbook, design, code 
-sg_author: "Elizaveta Zaburunova and Lisa Rader"
+sg_author: "Matthew Elsom"
 sg_description: This Jekyll Style Guide maintains design and code standards and documentation for a digital user interface.
 sg_language: en
 sg_styles: /styleguide/css/styleguide.css
-sg_favicon: /styleguide/branding/favicon.ico
+sg_favicon: /src/assets/favicon_package/favicon-32x32.png
 sg_ga: UA-19247091-8      ## Analytics Tracking
 
 ## Generates Style Guide Shell Styles

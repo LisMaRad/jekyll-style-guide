@@ -6,7 +6,6 @@
     width:fit-content;
     text-align: center;
     text-decoration: none;
-    vertical-align: middle;
     border-radius: 20px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.288);
     margin:$base-pad;
@@ -37,7 +36,7 @@ p{
     p{
     font-size: $fontsize_hProfile;
     font-weight: bold;
-}
+    }
 }
 
 .message{
@@ -51,5 +50,36 @@ p{
     }
     .button{
         margin:$base-pad;
+    }
+}
+
+.list{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+    .list_item{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-evenly;
+        padding:$base-pad;
+        align-items: center;
+        border-bottom: 1px $grey solid;
+    }
+    img{
+        height:5rem;
+        width:5rem;
+        object-fit: cover;
+        border-radius: 100%;
+    }
+    p{
+    font-size: $fontsize_hProfile;
+    font-weight: bold;
+
+    }
+    .bin{
+        margin-left:5%;
+        height: 1.5rem;
+        width: 1.5rem;
     }
 }
