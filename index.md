@@ -11,7 +11,7 @@ nav: false
 Unsere WebApp "Au Pair" ist eine Networking Plattform für Au Pairs auf der ganzen Welt. Die User können ihr eigenes Profil angelegen und dann auf einer Karte in ihrer Umgebung weitere registrierte Au Pairs finden und ihnen Friend requests schicken. Nachdem ein Request angenommen wurde, können weitere Informationen sehen um dann miteinander in Kontakt treten zu können. Weiters gibt es eine Kalenderfunktion um auf einen Blick sehen zu können, wann die Arbeitszeiten und wann freie Zeiten sind.
 
 
-## Naming Convention
+## Naming Conventions
 
 - alle .scss files beginnen mit einem _
 - die docs Foldernamen sind die selben wie im src Ordner
