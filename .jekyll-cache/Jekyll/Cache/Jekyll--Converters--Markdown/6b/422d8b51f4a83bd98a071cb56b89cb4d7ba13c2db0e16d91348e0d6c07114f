@@ -1,0 +1,116 @@
+I"Ê
+<style>
+.set {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -1rem;
+  margin-top: 0;
+  padding: 0;
+  list-style: none;
+}
+li {
+  flex: 1 0 20%;
+  margin: 1rem;
+}
+.image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 280px;
+  height: 300px;
+  background-color: whitesmoke;
+  border: 1px solid whitesmoke;
+  margin-bottom: 1rem;
+}
+img {
+  max-height: 100%;
+}
+p {
+  margin: 0;
+}
+</style>
+
+<ul class="set">
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/profile_black.png" /></div>
+    <p class="header">Profile</p>
+    <p>src/assets/icons/profile_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/calendar_black.png" /></div>
+    <p class="header">Calendar</p>
+    <p>src/assets/icons/calendar_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/search_black.png" /></div>
+    <p class="header">Search</p>
+    <p>src/assets/icons/search_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/back_black.png" /></div>
+    <p class="header">Back</p>
+    <p>src/assets/icons/back_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/plus_black.png" /></div>
+    <p class="header">Add</p>
+    <p>src/assets/icons/plus_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/friends_request_black.png" /></div>
+    <p class="header">Friends (Request)</p>
+    <p>src/assets/icons/friends_request_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/clock_black.png" /></div>
+    <p class="header">Clock</p>
+    <p>src/assets/icons/clock_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/maps_black.png" /></div>
+    <p class="header">Maps</p>
+    <p>src/assets/icons/maps_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/edit_black.png" /></div>
+    <p class="header">Edit</p>
+    <p>src/assets/icons/edit_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/close_black.png" /></div>
+    <p class="header">Close</p>
+    <p>src/assets/icons/close_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/settings_black.png" /></div>
+    <p class="header">Settings</p>
+    <p>src/assets/icons/settings_black.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/delete_bin_purple.png" /></div>
+    <p class="header">Delete Bin</p>
+    <p>src/assets/icons/delete_bin_purple.png</p>
+  </li>
+ 
+  <li>
+    <div class="image"><img src="/src/assets/icons/check_purple.png" /></div>
+    <p class="header">Check</p>
+    <p>src/assets/icons/check_purple.png</p>
+  </li>
+
+</ul>
+:ET

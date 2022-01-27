@@ -3,24 +3,32 @@ title: Icons
 maturity: draft
 control: exclude
 items: 
-  - name: Favicon
-    path: src/assets/images/icon.ico
-  - name: Icon
-    path: src/assets/images/icon.svg 
-  - name: Tiny
-    path: src/assets/images/icon-16x16.png
-  - name: Mini
-    path: src/assets/images/icon-32x32.png 
-  - name: Small
-    path: src/assets/images/icon-64x64.png
-  - name: Regular
-    path: src/assets/images/icon-128x128.png  
-  - name: Large
-    path: src/assets/images/icon-256x256.png  
-  - name: Huge
-    path: src/assets/images/icon-512x512.png 
-  - name: Massive
-    path: src/assets/images/icon-1024x1024.png 
+  - name: Profile
+    path: src/assets/icons/profile_black.png
+  - name: Calendar
+    path: src/assets/icons/calendar_black.png
+  - name: Search
+    path: src/assets/icons/search_black.png
+  - name: Back
+    path: src/assets/icons/back_black.png
+  - name: Add
+    path: src/assets/icons/plus_black.png
+  - name: Friends (Request)
+    path: src/assets/icons/friends_request_black.png
+  - name: Clock
+    path: src/assets/icons/clock_black.png
+  - name: Maps
+    path: src/assets/icons/maps_black.png
+  - name: Edit
+    path: src/assets/icons/edit_black.png
+  - name: Close
+    path: src/assets/icons/close_black.png
+  - name: Settings
+    path: src/assets/icons/settings_black.png
+  - name: Delete Bin
+    path: src/assets/icons/delete_bin_purple.png
+  - name: Check
+    path: src/assets/icons/check_purple.png
 ---
 <style>
 .set {
