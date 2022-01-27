@@ -1,3 +1,28 @@
 .navigation{
-  background-color: $darkgrey;
+  background-color: $black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: $base-pad;
+  p{
+    margin: 0;
+    padding: 0 0 $base-pad 0;
+    color: $white;
+  }
 }
+.icon_and_description{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon{
+  width:2rem;
+  height:2rem;
+  object-fit: contain;
+}
+
+a{
+  text-decoration: none;
+}
+
