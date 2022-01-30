@@ -4,29 +4,29 @@ maturity: draft
 control: exclude
 items: 
   - name: Profile
-    path: src/assets/icons/profile_black.png
+    path: src/assets/icons/profile_black.svg
   - name: Calendar
-    path: src/assets/icons/calendar_black.png
+    path: src/assets/icons/calendar_black.svg
   - name: Search
-    path: src/assets/icons/search_black.png
+    path: src/assets/icons/search_black.svg
   - name: Back
-    path: src/assets/icons/back_black.png
+    path: src/assets/icons/back_black.svg
   - name: Add
-    path: src/assets/icons/plus_black.png
+    path: src/assets/icons/plus_black.svg
   - name: Clock
-    path: src/assets/icons/clock_black.png
+    path: src/assets/icons/clock_black.svg
   - name: Maps
-    path: src/assets/icons/maps_black.png
+    path: src/assets/icons/maps_black.svg
   - name: Edit
-    path: src/assets/icons/edit_black.png
+    path: src/assets/icons/edit_black.svg
   - name: Close
-    path: src/assets/icons/close_black.png
+    path: src/assets/icons/close_black.svg
   - name: Settings
-    path: src/assets/icons/settings_black.png
+    path: src/assets/icons/settings_black.svg
   - name: Delete Bin
-    path: src/assets/icons/delete_bin_purple.png
+    path: src/assets/icons/delete_bin_purple.svg
   - name: Check
-    path: src/assets/icons/check_purple.png
+    path: src/assets/icons/check_purple.svg
 ---
 <style>
 .set {
